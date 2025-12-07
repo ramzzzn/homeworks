@@ -1,6 +1,6 @@
 package ru.stepup.homeworks.fraction;
 
-public class Fraction extends Number{
+public class Fraction extends Number {
     final int num;
     final int denum;
 
