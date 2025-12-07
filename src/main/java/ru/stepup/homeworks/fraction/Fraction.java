@@ -1,4 +1,4 @@
-package ru.stepup.homeworks;
+package ru.stepup.homeworks.fraction;
 
 public class Fraction extends Number{
     final int num;
