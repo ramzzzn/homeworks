@@ -1,4 +1,4 @@
-package ru.stepup.homeworks;
+package ru.stepup.homeworks.geometry;
 
 public class Line implements Measurable {
     Point begin;

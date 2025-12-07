@@ -1,4 +1,4 @@
-package ru.stepup.homeworks;
+package ru.stepup.homeworks.geometry;
 
 import java.util.ArrayList;
 import java.util.List;
